@@ -2,7 +2,7 @@
 
 
 <h2>
-This project is the complete UI design of the ios app "Money"</br>which can be identified as an online banking app.</h2>
+This project is the complete UI design of the ios app "Money"</br>which can be identified as an online banking app designed using Figma.</h2>
 <h3>The app uses user Email and password to sign-in and then it takes the user to the profile editing section. User has to provide the details of any valid and authorized debit/credit card. Then the app saves the details and wil use for future transactions. User can transfer money to any bank acccount/card using this app. Additionally, user can view last transactons and notifications of his/her all bank transactions.</h3>
 <h5>Screenshots of my final project output have included in the below table.</h5>
 <h3>Special features and incusions</h3>
